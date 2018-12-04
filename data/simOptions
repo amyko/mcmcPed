@@ -1,0 +1,6 @@
+sample.0.pairAssignment	#fileName
+simResults	#outfileName
+15	#alpha
+.0001	#beta
+50	#sampleSize
+5000	#maxN
